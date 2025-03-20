@@ -1,0 +1,26 @@
+Login Params
+{
+    "username": "your_username",
+    "password": "your_password"
+}
+
+Register Params
+
+{
+    "username": "your_username",
+    "email": "your_email",
+    "password": "your_password",
+    "user_profile": {
+        "role": "your_role"
+    }
+}
+
+product Params
+
+{
+    "title": "your_product_title",
+    "description": "your_product_description",
+    "price": "your_price",
+    "image": "your_image",
+    "category": "your_category"
+}
